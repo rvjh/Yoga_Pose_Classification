@@ -31,14 +31,15 @@ The Architecture is something like this:
 * Training:
 
     I uploaded the local code in google colab and executed from there using free gpu.
-    After running the pretrained model for 50 epochs I got the new model by which I'll create a webapp and ho prediction.
+    After running the pretrained model for 50 epochs I got the new model by which I'll create a webapp and do prediction.
 
 * Training Evaluation:
     By running the VGG19 pretrained model with the custom images I got validation accuracy approx 99.7 %
 
 ![alt text](static/2.PNG)
 
-* Deployment:
+* Verification Locally:
+
     After doing all preprocessing I have experimented this locally.
 
     Click on upload and select a picture.
