@@ -31,6 +31,14 @@ The Architecture is something like this:
 
 ![alt text](static/2.PNG)
 
+* Deployment:
+    After doing all preprocessing I have experimented this locally.
+
+![alt text](static/4.PNG)
+
+![alt text](static/5.PNG)
+    
+
 
 
 
