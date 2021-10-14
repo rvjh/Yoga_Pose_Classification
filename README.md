@@ -21,6 +21,17 @@ The Architecture is something like this:
 
 ![alt text](static/1.PNG)
 
+* Training:
+
+    I uploaded the local code in google colab and executed from there using free gpu.
+    After running the pretrained model for 50 epochs I got the new model by which I'll create a webapp and ho prediction.
+
+* Training Evaluation:
+    By running the VGG19 pretrained model with the custom images I got validation accuracy approx 99.7 %
+
+![alt text](static/2.PNG)
+
+
 
 
 
