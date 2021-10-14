@@ -5,7 +5,8 @@
 #### In this repo I will be taking about the custom image classification using VGG19 pretrained model.
 
 * Dataset :
-    I got this dataset from kaggle. [link](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
+    I got this dataset from kaggle. [Here](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
+    
     This dataset contains 5 class :
 
         1. downdog
