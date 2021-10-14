@@ -5,8 +5,10 @@
 #### In this repo I will be taking about the custom image classification using VGG19 pretrained model.
 
 * Dataset :
-    I got tis dataset from kaggle. link{https://www.kaggle.com/niharika41298/yoga-poses-dataset}
+    I got tis dataset from kaggle. [link]
 
 
 
 
+| Plugin | README |
+[link]     [https://www.kaggle.com/niharika41298/yoga-poses-dataset]
