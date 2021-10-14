@@ -7,6 +7,7 @@
 * Dataset :
     I got this dataset from kaggle. [link](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
     This dataset contains 5 class :
+
         1. downdog
 
         2. godess
