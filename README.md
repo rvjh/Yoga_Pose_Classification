@@ -41,9 +41,13 @@ The Architecture is something like this:
 * Deployment:
     After doing all preprocessing I have experimented this locally.
 
-![alt text](static/4.PNG)
+    Click on upload and select a picture.
 
-![alt text](static/5.PNG)
+    ![alt text](static/4.PNG)
+
+    Finally click the Predict button to see the classification result.
+
+    ![alt text](static/5.PNG)
     
 
 
