@@ -8,10 +8,16 @@
     I got this dataset from kaggle. [link](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
     This dataset contains 5 class :
         1. downdog
+
         2. godess
+
         3. plank
+
         4. tree
+
         5. warrior2
+
+
 * Pretrained Model Download:
 
     For this experiment I have selected VGG19 pretrained model. You can search more from [here](https://keras.io/api/applications/vgg/#vgg19-function).
