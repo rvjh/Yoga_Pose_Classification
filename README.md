@@ -17,7 +17,7 @@
     As VGG19 pretrained model selects image size of 224*224, during the preprocessing of the image I have reduced some custom image size to see how it works. 
 
 The Architecture is something like this:
-[(static/1.PNG)]
+![alt text](static/1.PNG)
 
 
 
