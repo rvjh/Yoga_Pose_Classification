@@ -5,7 +5,21 @@
 #### In this repo I will be taking about the custom image classification using VGG19 pretrained model.
 
 * Dataset :
-    I got tis dataset from kaggle. [link](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
+    I got this dataset from kaggle. [link](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
+    This dataset contains 5 class :
+        1. downdog
+        2. godess
+        3. plank
+        4. tree
+        5. warrior2
+* Pretrained Model Download:
+    For this experiment I have selected VGG19 pretrained model. You can search more from [here](https://keras.io/api/applications/vgg/#vgg19-function).
+    As VGG19 pretrained model selects image size of 224*224, during the preprocessing of the image I have reduced some custom image size to see how it works. 
+
+The Architecture is something like this:
+[(static/1.PNG)]
+
+
 
 
 
