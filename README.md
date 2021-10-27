@@ -42,7 +42,8 @@ The Architecture is something like this:
 * Verification Locally:
 
     After doing the training i saved the moddel in the local.
-    Also created an API using Flask for image uploading and predicting.
+    
+    Also created an API using Flask for image uploading and getting the prediction.
 
     Click on upload and select a picture.
 
